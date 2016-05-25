@@ -5,7 +5,7 @@ baseurl: /clearterm
 logo: /img/jkan.png
 
 # Site theme
-theme: Default
+theme: Paper
 
 # Authentication
 github_client_id: c20f8f8b9f0134f31e28
